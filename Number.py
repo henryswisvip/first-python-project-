@@ -4,7 +4,6 @@ def ABC(bian):
 
 
 
-
 print("press A to start")
 
 A = input()
